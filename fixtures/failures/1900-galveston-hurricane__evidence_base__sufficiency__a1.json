@@ -1,0 +1,1018 @@
+{
+  "run_id": "1900-galveston-hurricane",
+  "stage": "evidence_base",
+  "gate": "sufficiency",
+  "attempt": 1,
+  "ts": "2026-09-14T16:37:54.627Z",
+  "failures": [
+    {
+      "code": "not_atomic",
+      "message": "Entry e24 contains more than one fact and must be split.",
+      "offending": "The storm destroyed about 7,000 buildings in Galveston, including 3,636 demolished homes, and left approximately 10,000 people homeless out of a total population of fewer than 38,000."
+    },
+    {
+      "code": "not_atomic",
+      "message": "Entry e26 contains more than one fact and must be split.",
+      "offending": "A Morrison and Fourmy Company survey in early 1901 indicated a population loss of 8,124, though the company believed about 2,000 people left the city after the storm and never returned; on this basis the death toll is no less than 6,000, with estimates ranging up to 12,000."
+    },
+    {
+      "code": "not_atomic",
+      "message": "Entry e70 contains more than one fact and must be split.",
+      "offending": "The Galveston hurricane peaked as a Category 4 hurricane with winds of 145 mph and a minimum barometric pressure of 936 mbar on September 8, 1900."
+    }
+  ],
+  "artifact": {
+    "entries": [
+      {
+        "claim": "The 1900 Galveston hurricane left between 6,000 and 12,000 fatalities, making it the deadliest natural disaster in the history of the United States.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "it left between 6,000 and 12,000 fatalities",
+        "id": "e1",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Galveston_hurricane",
+        "source_title": "1900 Galveston hurricane"
+      },
+      {
+        "claim": "The number most cited in official reports for the storm's death toll is 8,000.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "the number most cited in official reports is 8,000",
+        "id": "e2",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Galveston_hurricane",
+        "source_title": "1900 Galveston hurricane"
+      },
+      {
+        "claim": "Weather Bureau director Willis Luther Moore implemented a policy to block telegraph reports from Cuban meteorologists at the meteorological observatory of the Colegio de Belén in Havana.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "Weather Bureau director Willis Luther Moore implemented a policy to block telegraph reports from Cuban meteorologists at the meteorological observatory of the Colegio de Belén in Havana",
+        "id": "e3",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Galveston_hurricane",
+        "source_title": "1900 Galveston hurricane"
+      },
+      {
+        "claim": "Moore's blockade of Cuban meteorological telegraph reports was due to tensions in the aftermath of the Spanish–American War.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "due to tensions in the aftermath of the Spanish–American War",
+        "id": "e4",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Galveston_hurricane",
+        "source_title": "1900 Galveston hurricane"
+      },
+      {
+        "claim": "The Colegio de Belén in Havana was considered one of the most advanced meteorological institutions in the world at the time.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "considered one of the most advanced meteorological institutions in the world at the time",
+        "id": "e5",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Galveston_hurricane",
+        "source_title": "1900 Galveston hurricane"
+      },
+      {
+        "claim": "Willis Luther Moore changed Weather Bureau protocol to force local offices to seek authorization from the central office before issuing storm warnings.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "Moore also changed protocol to force local Weather Bureau offices to seek authorization from the central office before issuing storm warnings.",
+        "id": "e6",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Galveston_hurricane",
+        "source_title": "1900 Galveston hurricane"
+      },
+      {
+        "claim": "The Weather Bureau discouraged the use of terms such as \"hurricane\" or \"tornado\" to avoid panicking residents in the path of any storm event.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "they discouraged the use of terms such as \"hurricane\" or \"tornado\" to avoid panicking residents in the path of any storm event",
+        "id": "e7",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Galveston_hurricane",
+        "source_title": "1900 Galveston hurricane"
+      },
+      {
+        "claim": "Weather Bureau forecasters had no way of knowing the storm's trajectory because of the policy blocking Cuban telegraph reports.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "Weather Bureau forecasters had no way of knowing the storm's trajectory",
+        "id": "e8",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Galveston_hurricane",
+        "source_title": "1900 Galveston hurricane"
+      },
+      {
+        "claim": "On September 1, Father Reese Gangoite, director of the Belen College Observatory in Havana, noted the storm was in its formative stages.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "On September 1, Father Reese Gangoite, the director of the Belen College Observatory in Havana, noted that the storm was in its formative stages",
+        "id": "e9",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Galveston_hurricane",
+        "source_title": "1900 Galveston hurricane"
+      },
+      {
+        "claim": "Gangoite observed a large, persistent halo around the moon, a deep red sky, and northward-moving cirrus clouds, indicating the storm had intensified and was heading toward the coast of Texas.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "Gangoite observed a large, persistent halo around the moon, while the sky turned deep red and cirrus clouds moved northwards. This indicated to him that the tropical storm had intensified and that the prevailing winds were moving the system",
+        "id": "e10",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Galveston_hurricane",
+        "source_title": "1900 Galveston hurricane"
+      },
+      {
+        "claim": "The United States Weather Bureau disagreed with Gangoite's forecast, expecting the system to recurve and make landfall in Florida before impacting the East Coast.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "the United States Weather Bureau (as it was then called) disagreed with this forecast, as they expected the system to recurve and make landfall in Florida before impacting the East Coast",
+        "id": "e11",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Galveston_hurricane",
+        "source_title": "1900 Galveston hurricane"
+      },
+      {
+        "claim": "Cuban forecasters adamantly disagreed with the Weather Bureau, saying the hurricane would continue west.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "Cuban forecasters adamantly disagreed with the Weather Bureau, saying the hurricane would continue west.",
+        "id": "e12",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Galveston_hurricane",
+        "source_title": "1900 Galveston hurricane"
+      },
+      {
+        "claim": "One Cuban forecaster predicted the hurricane would continue into central Texas near San Antonio.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "One Cuban forecaster predicted the hurricane would continue into central Texas near San Antonio.",
+        "id": "e13",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Galveston_hurricane",
+        "source_title": "1900 Galveston hurricane"
+      },
+      {
+        "claim": "On September 5, the Weather Bureau's central office issued a storm warning in Florida from Cedar Key to Miami.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "the central office of the Weather Bureau issued a storm warning in Florida from Cedar Key to Miami on September 5",
+        "id": "e14",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Galveston_hurricane",
+        "source_title": "1900 Galveston hurricane"
+      },
+      {
+        "claim": "By September 6, a hurricane warning was in effect from Cedar Key to Savannah, Georgia, with storm warnings displayed from Charleston, South Carolina, to Kitty Hawk, North Carolina, and from Pensacola, Florida, to New Orleans, Louisiana — but not Texas.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "a hurricane warning was in effect along the coast from Cedar Key to Savannah, Georgia, while storm warnings were displayed from Charleston, South Carolina, to Kitty Hawk, North Carolina, as well as from Pensacola, Florida, to New Orleans,",
+        "id": "e15",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Galveston_hurricane",
+        "source_title": "1900 Galveston hurricane"
+      },
+      {
+        "claim": "On September 7, the Weather Bureau realized the storm was continuing west-northwest across the Gulf of Mexico rather than turning northward over Florida and the East Coast as it had predicted.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "the Weather Bureau realized that the storm was continuing west-northwest across the Gulf of Mexico, rather than turning northward over Florida and the East Coast as it had predicted",
+        "id": "e16",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Galveston_hurricane",
+        "source_title": "1900 Galveston hurricane"
+      },
+      {
+        "claim": "On September 7, Weather Bureau director Willis Luther Moore insisted that the cyclone was not of hurricane intensity.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "Weather Bureau director Willis Luther Moore insisted that the cyclone was not of hurricane intensity",
+        "id": "e17",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Galveston_hurricane",
+        "source_title": "1900 Galveston hurricane"
+      },
+      {
+        "claim": "In an 1891 article in the Galveston Daily News, Isaac Cline, director of the Weather Bureau's Galveston office, stated it would be impossible for a hurricane of significant strength to strike Galveston Island.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "Isaac Cline, director of the Weather Bureau's Galveston office, wrote an 1891 article in the Galveston Daily News stating it would be impossible for a hurricane of significant strength to strike Galveston Island",
+        "id": "e18",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Galveston_hurricane",
+        "source_title": "1900 Galveston hurricane"
+      },
+      {
+        "claim": "Cline argued in his 1891 article that a seawall was not needed, and as a result the seawall was not built.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "Cline further argues in his 1891 article that a seawall was not needed because he believes that a strong hurricane would not strike the island. As a result, the seawall was not built",
+        "id": "e19",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Galveston_hurricane",
+        "source_title": "1900 Galveston hurricane"
+      },
+      {
+        "claim": "According to his memoirs, Isaac Cline personally traveled by horse along the beach and low-lying areas to warn people of the storm's approach, but these accounts by Cline and his brother Joseph L. Cline have since been disputed.",
+        "source_type": "archive",
+        "confidence": "contested",
+        "quote": "According to his memoirs, Cline personally traveled by horse along the beach and other low-lying areas to warn people of the storm's approach. However, these accounts by Cline and his brother, Galveston meteorologist Joseph L. Cline, have",
+        "id": "e20",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Galveston_hurricane",
+        "source_title": "1900 Galveston hurricane"
+      },
+      {
+        "claim": "Although Isaac Cline is credited with issuing a hurricane warning without permission from the Bureau's central office, author Erik Larson points to his earlier insistence that a seawall was unnecessary, and no other survivors are known to have corroborated the rescue accounts.",
+        "source_type": "archive",
+        "confidence": "contested",
+        "quote": "Although Isaac Cline is credited with issuing a hurricane warning without permission from the Bureau's central office, author Erik Larson points to his earlier insistence that a seawall was unnecessary",
+        "id": "e21",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Galveston_hurricane",
+        "source_title": "1900 Galveston hurricane"
+      },
+      {
+        "claim": "The cyclone made landfall around 8:00 p.m. CST on September 8, 1900, to the south of Houston as a Category 4 hurricane with maximum sustained winds of 145 mph.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "The cyclone made landfall around 8:00 p.m CST on September 8 (02:00 UTC on September 9) to the south of Houston as a Category 4 hurricane",
+        "id": "e22",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Galveston_hurricane",
+        "source_title": "1900 Galveston hurricane"
+      },
+      {
+        "claim": "The storm surge inundated Galveston with 8 to 12 ft (2.4 to 3.7 m) of water, and the hurricane brought a storm surge of over 15 ft (4.6 m) that washed over the entire island.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "the storm surge inundated the coastline city with 8 to 12 ft (2.4 to 3.7 m) of water",
+        "id": "e23",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Galveston_hurricane",
+        "source_title": "1900 Galveston hurricane"
+      },
+      {
+        "claim": "The storm destroyed about 7,000 buildings in Galveston, including 3,636 demolished homes, and left approximately 10,000 people homeless out of a total population of fewer than 38,000.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "the storm destroyed about 7,000 buildings in Galveston, which included 3,636 demolished homes",
+        "id": "e24",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Galveston_hurricane",
+        "source_title": "1900 Galveston hurricane"
+      },
+      {
+        "claim": "The loss of life is attributed to the fact that officials for the Weather Bureau in Galveston brushed off the reports and did not realize the threat.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "This loss of life can be attributed to the fact that officials for the Weather Bureau in Galveston brushed off the reports and they did not realize the threat.",
+        "id": "e25",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Galveston_hurricane",
+        "source_title": "1900 Galveston hurricane"
+      },
+      {
+        "claim": "A Morrison and Fourmy Company survey in early 1901 indicated a population loss of 8,124, though the company believed about 2,000 people left the city after the storm and never returned; on this basis the death toll is no less than 6,000, with estimates ranging up to 12,000.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "A survey conducted by the Morrison and Fourmy Company in early 1901 indicated a population loss of 8,124, though the company believed that about 2,000 people left the city after the storm and never returned",
+        "id": "e26",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Galveston_hurricane",
+        "source_title": "1900 Galveston hurricane"
+      },
+      {
+        "claim": "In response to the storm, three engineers — Alfred Noble, Henry Martyn Robert, and H. C. Ripley — designed plans to raise Galveston's Gulf shoreline by 17 ft (5.2 m) and erect a 10 mi (16 km) seawall.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "The city hired a team of three engineers to design structures for protection from future storms – Alfred Noble, Henry Martyn Robert, and H. C. Ripley",
+        "id": "e27",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Galveston_hurricane",
+        "source_title": "1900 Galveston hurricane"
+      },
+      {
+        "claim": "Isaac's Storm: A Man, a Time, and the Deadliest Hurricane in History is a 2000 New York Times bestseller by Erik Larson.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "Isaac's Storm: A Man, a Time, and the Deadliest Hurricane in History is a 2000 New York Times bestseller by Erik Larson",
+        "id": "e28",
+        "source_url": "https://en.wikipedia.org/wiki/Isaac's_Storm",
+        "source_title": "Isaac's Storm"
+      },
+      {
+        "claim": "The book Isaac's Storm is presented in a non-fiction, novelistic style.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "presented in a non-fiction, novelistic style",
+        "id": "e29",
+        "source_url": "https://en.wikipedia.org/wiki/Isaac's_Storm",
+        "source_title": "Isaac's Storm"
+      },
+      {
+        "claim": "The book follows the events immediately preceding, during, and after the 1900 Galveston hurricane.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "The book follows the events immediately preceding, during, and after the 1900 Galveston hurricane.",
+        "id": "e30",
+        "source_url": "https://en.wikipedia.org/wiki/Isaac's_Storm",
+        "source_title": "Isaac's Storm"
+      },
+      {
+        "claim": "The book opens with Isaac Cline on the night of September 7, 1900, the eve of the 1900 Galveston hurricane's landfall.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "The book opens with a restless Isaac Cline on the night of September 7, 1900, the eve of the 1900 Galveston hurricane's landfall.",
+        "id": "e31",
+        "source_url": "https://en.wikipedia.org/wiki/Isaac's_Storm",
+        "source_title": "Isaac's Storm"
+      },
+      {
+        "claim": "In the book, the meteorologists of Cuba are shown to be very skilled but are completely ignored by the overconfident Weather Bureau and its meteorologists.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "The meteorologists of Cuba are shown to be very skilled in the art, but are completely ignored by the overconfident Weather Bureau",
+        "id": "e32",
+        "source_url": "https://en.wikipedia.org/wiki/Isaac's_Storm",
+        "source_title": "Isaac's Storm"
+      },
+      {
+        "claim": "In the book, the hurricane passes over Cuba and the Cubans predict it to be heading towards Texas.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "The hurricane passes over Cuba, and the Cubans predict it to be heading towards Texas.",
+        "id": "e33",
+        "source_url": "https://en.wikipedia.org/wiki/Isaac's_Storm",
+        "source_title": "Isaac's Storm"
+      },
+      {
+        "claim": "In the book, the Weather Bureau disagrees with the Cuban forecast and believes the storm will track towards Florida.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "The Weather Bureau, however, disagrees and believes that the storm will track towards Florida.",
+        "id": "e34",
+        "source_url": "https://en.wikipedia.org/wiki/Isaac's_Storm",
+        "source_title": "Isaac's Storm"
+      },
+      {
+        "claim": "In the book, the storm uproots half the island of Galveston and kills thousands.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "the storm literally uproots half the island and kills thousands",
+        "id": "e35",
+        "source_url": "https://en.wikipedia.org/wiki/Isaac's_Storm",
+        "source_title": "Isaac's Storm"
+      },
+      {
+        "claim": "In the book, the islanders rebuild Galveston, raising it by several feet in the process.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "The islanders rebuild the island, raising it by several feet in the process",
+        "id": "e36",
+        "source_url": "https://en.wikipedia.org/wiki/Isaac's_Storm",
+        "source_title": "Isaac's Storm"
+      },
+      {
+        "claim": "After the hurricane, Galveston never returned to its former glory, with nearby Houston taking over its position as the prominent port in Texas.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "the city was never to return to its former glory with nearby Houston taking over Galveston's position as the prominent port in Texas.",
+        "id": "e37",
+        "source_url": "https://en.wikipedia.org/wiki/Isaac's_Storm",
+        "source_title": "Isaac's Storm"
+      },
+      {
+        "claim": "Isaac Monroe Cline (1861–1955) was the chief meteorologist at the Galveston, Texas office of the U.S. Weather Bureau from 1889 to 1901.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "Isaac Monroe Cline (1861–1955) was the chief meteorologist at the Galveston, Texas office of the U.S. Weather Bureau from 1889 to 1901.",
+        "id": "e38",
+        "source_url": "https://en.wikipedia.org/wiki/Isaac's_Storm",
+        "source_title": "Isaac's Storm"
+      },
+      {
+        "claim": "Cline authored an article for the Galveston Daily News in which he derided the idea of significant hurricane damage to Galveston as \"a crazy idea\".",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "authoring an article for the Galveston Daily News, in which he derided the idea of significant damage to Galveston from a hurricane as \"a crazy idea\"",
+        "id": "e39",
+        "source_url": "https://en.wikipedia.org/wiki/Isaac's_Storm",
+        "source_title": "Isaac's Storm"
+      },
+      {
+        "claim": "Cline's Galveston Daily News article played a significant role in preventing the construction of a proposed seawall.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "This article played a significant role in preventing the construction of a proposed seawall",
+        "id": "e40",
+        "source_url": "https://en.wikipedia.org/wiki/Isaac's_Storm",
+        "source_title": "Isaac's Storm"
+      },
+      {
+        "claim": "The proposed Galveston seawall followed the destruction of the competing port of Indianola in the 1886 Indianola hurricane.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "following the destruction of a competing port, Indianola, in the 1886 Indianola hurricane.",
+        "id": "e41",
+        "source_url": "https://en.wikipedia.org/wiki/Isaac's_Storm",
+        "source_title": "Isaac's Storm"
+      },
+      {
+        "claim": "Cline is credited during the 1900 hurricane with violating Weather Bureau policy and unilaterally issuing a hurricane warning.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "Cline is credited during the 1900 hurricane with violating Weather Bureau policy and unilaterally issuing a hurricane warning",
+        "id": "e42",
+        "source_url": "https://en.wikipedia.org/wiki/Isaac's_Storm",
+        "source_title": "Isaac's Storm"
+      },
+      {
+        "claim": "Cline's unilateral hurricane warning came too late to allow residents to evacuate the island.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "this warning, however, came too late to allow residents to evacuate the island.",
+        "id": "e43",
+        "source_url": "https://en.wikipedia.org/wiki/Isaac's_Storm",
+        "source_title": "Isaac's Storm"
+      },
+      {
+        "claim": "During the hurricane, Isaac Cline went home to his pregnant wife, three daughters, and younger brother.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "During the hurricane, Isaac went home to his pregnant wife, three daughters, and younger brother.",
+        "id": "e44",
+        "source_url": "https://en.wikipedia.org/wiki/Isaac's_Storm",
+        "source_title": "Isaac's Storm"
+      },
+      {
+        "claim": "During the hurricane, flood waters lifted the Cline house and the family was separated for a time.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "the flood waters lifted the house and the family was separated for a time",
+        "id": "e45",
+        "source_url": "https://en.wikipedia.org/wiki/Isaac's_Storm",
+        "source_title": "Isaac's Storm"
+      },
+      {
+        "claim": "Isaac Cline's wife, Cora, ultimately drowned in the 1900 hurricane.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "with Cline's wife, Cora, ultimately drowning.",
+        "id": "e46",
+        "source_url": "https://en.wikipedia.org/wiki/Isaac's_Storm",
+        "source_title": "Isaac's Storm"
+      },
+      {
+        "claim": "Isaac's Storm received the Louis J. Battan Author's Award.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "The Louis J. Battan Author's Award",
+        "id": "e47",
+        "source_url": "https://en.wikipedia.org/wiki/Isaac's_Storm",
+        "source_title": "Isaac's Storm"
+      },
+      {
+        "claim": "In the book, Isaac Cline, despite meteorological signs saying otherwise, cannot shake an uneasy feeling that something is amiss on the storm's eve.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "despite all of the meteorological signs saying otherwise, cannot shake the uneasy feeling that something is amiss",
+        "id": "e48",
+        "source_url": "https://en.wikipedia.org/wiki/Isaac's_Storm",
+        "source_title": "Isaac's Storm"
+      },
+      {
+        "claim": "The book's narrative is supported by the insertion of letters and telegrams surrounding the events of the storm.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "The narrative is supported by the insertion of letters and telegrams surrounding the events of the storm.",
+        "id": "e49",
+        "source_url": "https://en.wikipedia.org/wiki/Isaac's_Storm",
+        "source_title": "Isaac's Storm"
+      },
+      {
+        "claim": "The 1900 Atlantic hurricane season featured the Galveston hurricane, the deadliest natural disaster in United States history.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "featured the Galveston hurricane, the deadliest natural disaster in the United States history",
+        "id": "e50",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "A total of 10 tropical cyclones formed during the 1900 Atlantic hurricane season, seven of which intensified into tropical storms.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "A total of 10 tropical cyclones formed, seven of which intensified into a tropical storm.",
+        "id": "e51",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "Three of the 1900 season's tropical storms made landfall in the United States.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "Three of those made landfall in the United States.",
+        "id": "e52",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "The first system of the 1900 season was initially observed over the central Atlantic Ocean on January 17.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "The first system was initially observed over the central Atlantic Ocean on January 17",
+        "id": "e53",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "The final storm of the 1900 season transitioned into an extratropical cyclone on October 28.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "the final storm transitioned into an extratropical cyclone on October 28",
+        "id": "e54",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "The strongest cyclone of the 1900 season, the first hurricane, peaked at Category 4 strength with maximum sustained winds of 145 mph (230 km/h).",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "peaked at Category 4 strength with maximum sustained winds of 145 mph (230 km/h)",
+        "id": "e55",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "The 1900 Galveston hurricane produced a devastating storm surge in the Galveston area, with extensive damage and at least 8,000 fatalities.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "it produced a devastating storm surge in the Galveston area, with extensive damage and at least 8,000 fatalities",
+        "id": "e56",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "The 1900 Galveston hurricane remains the deadliest natural disaster in the history of the United States.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "it remains the deadliest natural disaster in the history of the United States",
+        "id": "e57",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "The 1900 Galveston hurricane caused about $35.5 million (1.9 billion USD) in damage overall.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "The hurricane overall caused about $35.5 million (1.9 billion USD) in damage.",
+        "id": "e58",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "The Galveston hurricane's storm surge submerged much of Galveston Island in Texas, killing between 6,000 and 12,000 people.",
+        "source_type": "reference",
+        "confidence": "contested",
+        "quote": "Its storm surge submerged much of Galveston Island in Texas, killing between 6,000 and 12,000 people.",
+        "id": "e59",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "Official estimates put the Galveston hurricane's death toll at approximately 8,000.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "Official estimates put the death toll at approximately 8,000.",
+        "id": "e60",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "The actual death toll of the 1900 Galveston hurricane is unknown, though it is thought to be at least 8,000.",
+        "source_type": "reference",
+        "confidence": "contested",
+        "quote": "The actual death toll is unknown, though it is thought to be at least 8,000.",
+        "id": "e61",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "At the time, the Galveston hurricane was the second deadliest tropical cyclone in the Atlantic basin, behind only the Great Hurricane of 1780.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "it was also the second deadliest tropical cyclone in the Atlantic basin, behind only the Great Hurricane of 1780",
+        "id": "e62",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "The Great Hurricane of 1780 killed at least 22,000 people in the Lesser Antilles.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "the Great Hurricane of 1780, which killed at least 22,000 people in the Lesser Antilles",
+        "id": "e63",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "The Galveston hurricane was surpassed as the deadliest Atlantic tropical cyclone in 1998 by Hurricane Mitch.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "the Galveston hurricane was surpassed in 1998 by Hurricane Mitch",
+        "id": "e64",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "Hurricane Mitch caused more than 11,000 fatalities in Central America.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "Hurricane Mitch, which caused more than 11,000 fatalities in Central America",
+        "id": "e65",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "The 1900 Galveston hurricane was among the deadliest tropical cyclones in Canada, where at least 102 people were killed.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "The storm was also among the deadliest in Canada, where at least 102 people were killed.",
+        "id": "e66",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "The storm that became the Galveston hurricane made landfall in the Dominican Republic as a weak tropical storm on September 2, 1900.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "made landfall in Dominican Republic as a weak tropical storm on September 2",
+        "id": "e67",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "On September 3, 1900, the cyclone struck modern-day Santiago de Cuba Province and then slowly drifted along the southern coast of Cuba.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "On September 3, the cyclone struck modern day Santiago de Cuba Province and then slowly drifted along the southern coast of Cuba",
+        "id": "e68",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "Upon reaching the Gulf of Mexico on September 6, 1900, the storm strengthened into a hurricane near Dry Tortugas.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "Upon reaching the Gulf of Mexico on September 6, the storm strengthened into a hurricane, while situated near Dry Tortugas",
+        "id": "e69",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "The Galveston hurricane peaked as a Category 4 hurricane with winds of 145 mph and a minimum barometric pressure of 936 mbar on September 8, 1900.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "the system peaked as a Category 4 hurricane with winds of 145 mph (230 km/h) on September 8",
+        "id": "e70",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "Early on September 9, 1900, the Galveston hurricane made landfall near modern-day Jamaica Beach, Texas, with winds of 140 mph (225 km/h).",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "Early on the next day, it made landfall near modern-day Jamaica Beach, Texas, with winds of 140 mph (225 km/h)",
+        "id": "e71",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "The Galveston hurricane brought heavy rainfall to Cuba, with up to 12.58 in (320 mm) in a 24-hour period in the city of Santiago de Cuba.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "up to 12.58 in (320 mm) in a 24‑hour period in the city of Santiago de Cuba",
+        "id": "e72",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "In the Galveston area of Texas, strong winds reached 120 mph (195 km/h) during the 1900 hurricane.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "strong winds were reported in the Galveston area, reaching 120 mph (195 km/h)",
+        "id": "e73",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "Storm surge cresting between 8 and 15 ft (2.4 and 4.6 m) inundated the entirety of Galveston Island.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "Storm surge cresting between 8 and 15 ft (2.4 and 4.6 m) inundated the entirety of Galveston Island",
+        "id": "e74",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "Every house in Galveston sustained damage in the 1900 hurricane, with at least 3,636 destroyed.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "Every house sustained damage, with at least 3,636 destroyed.",
+        "id": "e75",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "In Galveston alone, approximately 10,000 people were left homeless out of a total population of 37,000.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "approximately 10,000 were left homeless, out of a total population of 37,000",
+        "id": "e76",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "Property damage from the 1900 hurricane in Galveston alone was estimated at $30 million.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "Property damage from the storm in Galveston alone was estimated at $30 million.",
+        "id": "e77",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "The Galveston hurricane's remnants caused 15 deaths in Ohio, 2 each in Illinois and New York, and 1 each in Massachusetts and Missouri.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "caused 15 deaths in Ohio; 2 each in Illinois and New York; and 1 each in Massachusetts and Missouri",
+        "id": "e78",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "There were at least 107 deaths in Canada from the Galveston hurricane and its remnants, mostly due to sunken vessels near Newfoundland and Saint Pierre and Miquelon.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "There were at least 107 deaths in Canada, mostly due to sunken vessels near Newfoundland and the French territory of Saint Pierre and Miquelon",
+        "id": "e79",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "A telegraph from the Weather Bureau headquarters in Washington, D.C. warned vessels to remain in port for portions of the Gulf Coast during Tropical Storm Four.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "A telegraph from the Weather Bureau headquarters in Washington, D.C. warned vessels to remain in port for portions of the Gulf Coast",
+        "id": "e80",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "The 1900 Atlantic hurricane season had an accumulated cyclone energy (ACE) rating of 81.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "The season's activity was reflected with an accumulated cyclone energy (ACE) rating of 81",
+        "id": "e81",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "The season's first tropical storm of at least tropical storm intensity did not develop until August 27, 1900, which was abnormally late.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "the season's first such of at least tropical storm intensity did not develop until August 27",
+        "id": "e82",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "The extratropical remnants of Tropical Storm Five caused 1 fatality and about $100,000 in losses in Atlantic Canada, mainly to railroads.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "The storm caused 1 fatality and about $100,000 in losses, mainly to railroads",
+        "id": "e83",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "The Galveston hurricane became extratropical over Iowa on September 11, 1900.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "The storm turned east-northeastward and became extratropical over Iowa on September 11",
+        "id": "e84",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "The Galveston hurricane finally dissipated near Iceland on September 15, 1900.",
+        "source_type": "reference",
+        "confidence": "high",
+        "quote": "finally dissipating near Iceland on September 15",
+        "id": "e85",
+        "source_url": "https://en.wikipedia.org/wiki/1900_Atlantic_hurricane_season",
+        "source_title": "1900 Atlantic hurricane season"
+      },
+      {
+        "claim": "The Galveston Seawall is a seawall located in Galveston, Texas.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": null,
+        "id": "e86",
+        "source_url": "https://en.wikipedia.org/wiki/Galveston_Seawall",
+        "source_title": "Galveston Seawall"
+      },
+      {
+        "claim": "The Galveston Seawall was built after the 1900 Galveston hurricane for protection from future hurricanes.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "built after the 1900 Galveston hurricane for protection from future hurricanes",
+        "id": "e87",
+        "source_url": "https://en.wikipedia.org/wiki/Galveston_Seawall",
+        "source_title": "Galveston Seawall"
+      },
+      {
+        "claim": "Construction of the Galveston Seawall began in September 1902.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "Construction began in September 1902",
+        "id": "e88",
+        "source_url": "https://en.wikipedia.org/wiki/Galveston_Seawall",
+        "source_title": "Galveston Seawall"
+      },
+      {
+        "claim": "The initial segment of the Galveston Seawall was completed on July 29, 1904.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "the initial segment was completed on July 29, 1904",
+        "id": "e89",
+        "source_url": "https://en.wikipedia.org/wiki/Galveston_Seawall",
+        "source_title": "Galveston Seawall"
+      },
+      {
+        "claim": "From 1904 to 1963, the seawall was extended from 3.3 miles (5.3 km) to over 10 miles (16 km).",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "From 1904 to 1963, the seawall was extended from 3.3 miles (5.3 km) to over 10 miles (16 km)",
+        "id": "e90",
+        "source_url": "https://en.wikipedia.org/wiki/Galveston_Seawall",
+        "source_title": "Galveston Seawall"
+      },
+      {
+        "claim": "The seawall performed as intended but created passive erosion that caused the gradual disappearance of the once-wide beach and the resort business.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "passive erosion resulting in the gradual disappearance of the once-wide beach and the resort business",
+        "id": "e91",
+        "source_url": "https://en.wikipedia.org/wiki/Galveston_Seawall",
+        "source_title": "Galveston Seawall"
+      },
+      {
+        "claim": "Within twenty years of the seawall's construction, the city had lost one hundred yards of sand.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "Within twenty years, the city had lost one hundred yards of sand.",
+        "id": "e92",
+        "source_url": "https://en.wikipedia.org/wiki/Galveston_Seawall",
+        "source_title": "Galveston Seawall"
+      },
+      {
+        "claim": "People who once watched auto racing on a wide beach were left with a narrow strip of sand at low tide and a view of waves on rocks at high tide.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "People who once watched auto racing on a wide beach were left with a narrow strip of sand",
+        "id": "e93",
+        "source_url": "https://en.wikipedia.org/wiki/Galveston_Seawall",
+        "source_title": "Galveston Seawall"
+      },
+      {
+        "claim": "Houston soon overtook Galveston as the major city in the region.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "Houston soon overtook Galveston as the major city in the region.",
+        "id": "e94",
+        "source_url": "https://en.wikipedia.org/wiki/Galveston_Seawall",
+        "source_title": "Galveston Seawall"
+      },
+      {
+        "claim": "Hurricane Alicia occurred in 1983.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "the 1983 Hurricane Alicia",
+        "id": "e95",
+        "source_url": "https://en.wikipedia.org/wiki/Galveston_Seawall",
+        "source_title": "Galveston Seawall"
+      },
+      {
+        "claim": "Reporting in the aftermath of Hurricane Alicia, the Corps of Engineers estimated that $100 million in damage was avoided because of the seawall.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "the Corps of Engineers estimated that $100 million in damage was avoided because of the seawall",
+        "id": "e96",
+        "source_url": "https://en.wikipedia.org/wiki/Galveston_Seawall",
+        "source_title": "Galveston Seawall"
+      },
+      {
+        "claim": "On September 13, 2008, Hurricane Ike's large waves over-topped the seawall.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "On September 13, 2008, Hurricane Ike's large waves over-topped the seawall",
+        "id": "e97",
+        "source_url": "https://en.wikipedia.org/wiki/Galveston_Seawall",
+        "source_title": "Galveston Seawall"
+      },
+      {
+        "claim": "After Hurricane Ike over-topped the seawall, a commission was established by the Texas governor to investigate preparing for and mitigating future disasters.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "a commission was established by the Texas governor to investigate preparing for and mitigating future disasters",
+        "id": "e98",
+        "source_url": "https://en.wikipedia.org/wiki/Galveston_Seawall",
+        "source_title": "Galveston Seawall"
+      },
+      {
+        "claim": "A proposal has been put forth to build an \"Ike Dike\", a massive levee system that would protect Galveston Bay and industrial facilities along the coast and the Houston Ship Channel from a future, potentially more destructive storm.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "a massive levee system that would protect the Galveston Bay and the important industrial facilities",
+        "id": "e99",
+        "source_url": "https://en.wikipedia.org/wiki/Galveston_Seawall",
+        "source_title": "Galveston Seawall"
+      },
+      {
+        "claim": "The Ike Dike proposal has gained widespread support from a variety of business interests.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "This proposal has gained widespread support from a variety of business interests",
+        "id": "e100",
+        "source_url": "https://en.wikipedia.org/wiki/Galveston_Seawall",
+        "source_title": "Galveston Seawall"
+      },
+      {
+        "claim": "The Ike Dike proposal never passed the conceptual stage.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "this proposal never passed the conceptual stage",
+        "id": "e101",
+        "source_url": "https://en.wikipedia.org/wiki/Galveston_Seawall",
+        "source_title": "Galveston Seawall"
+      },
+      {
+        "claim": "Since 2009, proposals for a layered network of smaller local levees and natural protections have been put forward by the SSPEED Center at Rice University and the University of Houston.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "put forward by the SSPEED Center at Rice University and the University of Houston",
+        "id": "e102",
+        "source_url": "https://en.wikipedia.org/wiki/Galveston_Seawall",
+        "source_title": "Galveston Seawall"
+      },
+      {
+        "claim": "The layered-protection proposals include a surge gate at the mouth of the Houston Ship Channel connecting adjacent high ground near the Fred Hartman Bridge.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "a surge gate at the mouth of the Houston Ship Channel connecting adjacent high ground near the Fred Hartman Bridge",
+        "id": "e103",
+        "source_url": "https://en.wikipedia.org/wiki/Galveston_Seawall",
+        "source_title": "Galveston Seawall"
+      },
+      {
+        "claim": "The layered-protection proposals include hard protections for the west shore of Galveston Bay and around the densely developed east end of Galveston Island.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "hard protections for the west shore of Galveston Bay and around the densely developed east end of Galveston Island",
+        "id": "e104",
+        "source_url": "https://en.wikipedia.org/wiki/Galveston_Seawall",
+        "source_title": "Galveston Seawall"
+      },
+      {
+        "claim": "The proposals include the proposed lower coastal Lone Star Coastal National Recreation Area.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "the proposed lower coastal Lone Star Coastal National Recreation Area",
+        "id": "e105",
+        "source_url": "https://en.wikipedia.org/wiki/Galveston_Seawall",
+        "source_title": "Galveston Seawall"
+      },
+      {
+        "claim": "The sidewalk adjacent to Seawall Boulevard on top of the seawall is claimed to be the longest continuous sidewalk in the world at 10.3 miles (16.6 km) long.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "claimed to be the longest continuous sidewalk in the world at 10.3 miles (16.6 km) long",
+        "id": "e106",
+        "source_url": "https://en.wikipedia.org/wiki/Galveston_Seawall",
+        "source_title": "Galveston Seawall"
+      },
+      {
+        "claim": "The seawall is approximately 17 feet (5.2 m) high and 16 feet (4.9 m) thick at its base.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "approximately 17 feet (5.2 m) high and 16 feet (4.9 m) thick at its base",
+        "id": "e107",
+        "source_url": "https://en.wikipedia.org/wiki/Galveston_Seawall",
+        "source_title": "Galveston Seawall"
+      },
+      {
+        "claim": "The seawall was listed in the National Register of Historic Places in 1977.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "listed in the National Register of Historic Places in 1977",
+        "id": "e108",
+        "source_url": "https://en.wikipedia.org/wiki/Galveston_Seawall",
+        "source_title": "Galveston Seawall"
+      },
+      {
+        "claim": "The seawall was designated a National Historic Civil Engineering Landmark by the American Society of Civil Engineers in 2001.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "designated a National Historic Civil Engineering Landmark by the American Society of Civil Engineers in 2001",
+        "id": "e109",
+        "source_url": "https://en.wikipedia.org/wiki/Galveston_Seawall",
+        "source_title": "Galveston Seawall"
+      },
+      {
+        "claim": "Many miles of the seawall are painted with murals depicting underwater life, painted by children.",
+        "source_type": "archive",
+        "confidence": "high",
+        "quote": "These huge murals are painted by children and depict underwater life",
+        "id": "e110",
+        "source_url": "https://en.wikipedia.org/wiki/Galveston_Seawall",
+        "source_title": "Galveston Seawall"
+      }
+    ]
+  }
+}

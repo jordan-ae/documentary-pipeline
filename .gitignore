@@ -1,0 +1,12 @@
+node_modules/
+.env
+.DS_Store
+*.log
+
+# Large binaries are not committed. Run artifacts (JSON) ARE committed —
+# they ship as the static data the demo site reads.
+runs/**/*.mp4
+runs/**/*.wav
+runs/**/*.mp3
+runs/**/assets/
+models/

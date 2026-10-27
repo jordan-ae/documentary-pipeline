@@ -1,0 +1,26 @@
+{
+  "run_id": "1900-galveston-hurricane",
+  "stage": "treatment",
+  "gate": "viability",
+  "attempt": 1,
+  "ts": "2026-09-14T16:13:29.945Z",
+  "failures": [
+    {
+      "code": "no_reveal",
+      "message": "The angle contains nothing the audience would not already expect.",
+      "offending": "The treatment's strongest asset is the institutional conflict, and the strongest single beat it names is the override itself: Washington substituting its own track for Belen's. But the treatment never identifies what the audience learns at the end. The aftermath is described as the Bureau 'writing its own account' — that is a thematic closure, not a reveal. There is no named document, no quoted self-exculpation, no archival discovery, no reversal of what the viewer believed in act one. The middle act's counterfactual — could a correct forecast have moved Galveston in time? — is genuinely the best question here, but the treatment only says the runtime 'can hold' it. Holding a question is not answering it, and a 600s piece that ends on an open counterfactual plus a 'Washington wrote its own history' observation will feel like a setup for a documentary that was never made. The day-by-day ticking structure is real but thin: the divergence between two forecasts is a line, not a sequence of events, and five days of two men reading charts will not fill ten minutes without padding. The parallel institutional histories are sketched as context, not as story — no named figures, no scenes, no documents are committed to. Verdict: the angle is strong, the structure is competent, but the reveal is missing, and without it this is a well-organized history explainer, not a documentary with a payoff."
+    },
+    {
+      "code": "thin",
+      "message": "Not enough substance for 600s of narration.",
+      "offending": "The treatment's strongest asset is the institutional conflict, and the strongest single beat it names is the override itself: Washington substituting its own track for Belen's. But the treatment never identifies what the audience learns at the end. The aftermath is described as the Bureau 'writing its own account' — that is a thematic closure, not a reveal. There is no named document, no quoted self-exculpation, no archival discovery, no reversal of what the viewer believed in act one. The middle act's counterfactual — could a correct forecast have moved Galveston in time? — is genuinely the best question here, but the treatment only says the runtime 'can hold' it. Holding a question is not answering it, and a 600s piece that ends on an open counterfactual plus a 'Washington wrote its own history' observation will feel like a setup for a documentary that was never made. The day-by-day ticking structure is real but thin: the divergence between two forecasts is a line, not a sequence of events, and five days of two men reading charts will not fill ten minutes without padding. The parallel institutional histories are sketched as context, not as story — no named figures, no scenes, no documents are committed to. Verdict: the angle is strong, the structure is competent, but the reveal is missing, and without it this is a well-organized history explainer, not a documentary with a payoff."
+    }
+  ],
+  "artifact": {
+    "topic": "1900 Galveston hurricane",
+    "angle": "The Jesuit observatory in Havana that read the storm's track correctly, and the young US Weather Bureau that had just claimed authority over Caribbean weather after 1898 and could not concede that the Cubans understood these storms better than Washington did.",
+    "central_question": "Why did the US Weather Bureau override the Belen Observatory's track forecast in favor of its own, and did that institutional decision actually change what Galveston knew in time to act?",
+    "why_long_form": "The runtime is filled by two parallel institutional histories that converge over five days: the Belen Observatory's decades of Jesuit hurricane observation in Cuba, and the Weather Bureau's post-1898 centralization of warning authority in Washington, which subordinated the Caribbean network it had inherited. The storm itself supplies a natural ticking structure, tracked day by day as the two forecasts diverge and the Cuban track proves right. The middle act can hold the genuinely hard question this angle raises: whether a correct forecast, delivered through a bureaucracy that required Washington's approval, could have moved a low-lying island city in the hours actually available. The aftermath, in which the Bureau wrote its own account of the failure, closes the loop on the institutional tension rather than treating the storm as an act of God alone.",
+    "target_runtime_s": 600
+  }
+}

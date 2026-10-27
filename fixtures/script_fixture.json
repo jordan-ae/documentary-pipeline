@@ -1,0 +1,23 @@
+{
+  "_note": "Hand-written, NOT a pipeline artifact. Exists so the narration path can be tested without spending on research/scripting. Deliberately contains lexicon proper nouns (Gangoite, Belen, Galveston, Cline) and spoken numbers to exercise asr_diff.",
+  "segments": [
+    {
+      "id": "s1",
+      "beat_id": "b1",
+      "text": "On the morning of September eighth, nineteen hundred, the telegraph line to Galveston went silent. A city of thirty-seven thousand people had woken to an ordinary sky.",
+      "evidence_ids": ["e1", "e2"]
+    },
+    {
+      "id": "s2",
+      "beat_id": "b1",
+      "text": "In Havana, Father Gangoite had been watching the storm for days from the Belen Observatory. He believed it was turning toward Texas. His warnings did not reach the island.",
+      "evidence_ids": ["e3"]
+    },
+    {
+      "id": "s3",
+      "beat_id": "b2",
+      "text": "Isaac Cline would later write that he had warned them. The records do not agree. By the time the water withdrew, eight thousand people were dead.",
+      "evidence_ids": ["e4", "e5"]
+    }
+  ]
+}
